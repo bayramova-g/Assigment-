@@ -1,0 +1,15 @@
+/Users/miraysofya/Projects/fifthTask/fifthTask/bin/Debug/net5.0/fifthTask.deps.json
+/Users/miraysofya/Projects/fifthTask/fifthTask/bin/Debug/net5.0/fifthTask.runtimeconfig.json
+/Users/miraysofya/Projects/fifthTask/fifthTask/bin/Debug/net5.0/fifthTask.runtimeconfig.dev.json
+/Users/miraysofya/Projects/fifthTask/fifthTask/bin/Debug/net5.0/fifthTask.dll
+/Users/miraysofya/Projects/fifthTask/fifthTask/bin/Debug/net5.0/ref/fifthTask.dll
+/Users/miraysofya/Projects/fifthTask/fifthTask/bin/Debug/net5.0/fifthTask.pdb
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.csprojAssemblyReference.cache
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.AssemblyInfoInputs.cache
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.AssemblyInfo.cs
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.csproj.CoreCompileInputs.cache
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.dll
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/ref/fifthTask.dll
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.pdb
+/Users/miraysofya/Projects/fifthTask/fifthTask/obj/Debug/net5.0/fifthTask.genruntimeconfig.cache
